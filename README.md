@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nlorentemontero
 - 👀 I’m interested in merging tech with healthcare and Seeking coding opportunities
-- 🌱 I’m currently learning Biomedical Engineering
+- 🌱 I’m a Biomedical Engineering
 - 📫 How to reach me nlorentemontero@gmail.com
 
 <!---
